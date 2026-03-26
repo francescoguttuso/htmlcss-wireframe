@@ -1,0 +1,23 @@
+
+div.primo-quadro{
+    border: 3px solid;
+    border-color: black;
+    background-color: aqua;
+    height: 265px;
+    margin: auto;
+    width: 82%;
+}
+
+}
+div.secondo-quadro{
+    border: 3px solid;
+    border-color: black;
+    background-color: aqua;
+    height: 200px;
+}
+div.terzo-quadro{
+    border: 3px solid;
+    border-color: black;
+    background-color: aqua;
+    height: 200px;
+}
