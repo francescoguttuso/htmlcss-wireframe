@@ -1,4 +1,11 @@
+* {margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
 
+header{
+    margin: 14px;
+}
 div.primo-quadro{
     border: 3px solid;
     border-color: black;
@@ -24,4 +31,8 @@ div.terzo-quadro{
 }
 hr{
     border: 2px solid;
+}
+
+footer{
+    margin: 14px;
 }
