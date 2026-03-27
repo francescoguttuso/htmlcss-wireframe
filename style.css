@@ -2,22 +2,26 @@
 div.primo-quadro{
     border: 3px solid;
     border-color: black;
-    background-color: aqua;
-    height: 265px;
-    margin: auto;
-    width: 82%;
+    height: 274px;
+    margin: 33px;
+    width: 85%;
 }
 
-}
+
 div.secondo-quadro{
     border: 3px solid;
     border-color: black;
-    background-color: aqua;
-    height: 200px;
+    height: 274px;
+    margin: 33px;
+    width: 85%;
 }
 div.terzo-quadro{
     border: 3px solid;
     border-color: black;
-    background-color: aqua;
-    height: 200px;
+    height: 274px;
+    margin: 33px;
+    width: 85%;
+}
+hr{
+    border: 2px solid;
 }
