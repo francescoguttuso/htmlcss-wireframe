@@ -4,7 +4,7 @@ div.primo-quadro{
     border-color: black;
     height: 274px;
     margin: 33px;
-    width: 85%;
+    
 }
 
 
@@ -13,14 +13,14 @@ div.secondo-quadro{
     border-color: black;
     height: 274px;
     margin: 33px;
-    width: 85%;
+    
 }
 div.terzo-quadro{
     border: 3px solid;
     border-color: black;
     height: 274px;
     margin: 33px;
-    width: 85%;
+    
 }
 hr{
     border: 2px solid;
