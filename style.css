@@ -9,17 +9,20 @@ header {
 
 body 
     {
+    display: block;
     width: 512px;
-    border: 1px dotted grey;
+    
 }
 
 section {
     margin: 20px;
+    padding: 12px;
+    padding-top: 0px;
 }
 .card {
     border: 3px solid;
     border-color: black;
-    height: 274px;
+    height: 233px;
     margin: 33px;
     
 }
