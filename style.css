@@ -4,25 +4,27 @@
 }
 
 header {
-    margin: 14px;
+    margin: 9px;
 }
 
 body 
     {
     display: block;
     width: 512px;
-    
+    border: 1px dotted grey;
 }
-
+main
+    {height: 850px;
+}
 section {
-    margin: 20px;
+    margin: 10px;
     padding: 12px;
     padding-top: 0px;
 }
 .card {
     border: 3px solid;
     border-color: black;
-    height: 233px;
+    height: 180px;
     margin: 33px;
     
 }
