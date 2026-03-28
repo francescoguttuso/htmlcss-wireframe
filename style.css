@@ -3,10 +3,20 @@
    box-sizing: border-box;
 }
 
-header{
+header {
     margin: 14px;
 }
-div.primo-quadro{
+
+body 
+    {
+    width: 512px;
+    border: 1px dotted grey;
+}
+
+section {
+    margin: 20px;
+}
+.card {
     border: 3px solid;
     border-color: black;
     height: 274px;
@@ -14,25 +24,10 @@ div.primo-quadro{
     
 }
 
-
-div.secondo-quadro{
-    border: 3px solid;
-    border-color: black;
-    height: 274px;
-    margin: 33px;
-    
-}
-div.terzo-quadro{
-    border: 3px solid;
-    border-color: black;
-    height: 274px;
-    margin: 33px;
-    
-}
-hr{
+hr {
     border: 2px solid;
 }
 
-footer{
+footer {
     margin: 14px;
 }
