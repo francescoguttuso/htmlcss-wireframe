@@ -16,6 +16,8 @@ body {
 
 main {
     height: 805px;
+    border-bottom: 3px solid;
+    border-top: 3px solid;
 }
 
 section {
