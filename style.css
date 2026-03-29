@@ -9,7 +9,6 @@ header {
 }
 
 body {
-    display: block;
     width: 512px;
     border: 1px dotted grey;
 }
